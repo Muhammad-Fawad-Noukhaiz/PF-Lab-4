@@ -1,0 +1,1 @@
+The wrong value being displayed is the garbage value. It is because of the input not being in the range of integer function
